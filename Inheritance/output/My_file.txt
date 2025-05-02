@@ -1,0 +1,7 @@
+These are the details of student :
+Name: maaz Age: 18 ID: 220
+Name: saad Age: 18 ID: 221
+Name: samee Age: 19 ID: 222
+Name: bilal Age: 19 ID: 223
+Name: taha Age: 19 ID: 224
+Name: nizam Age: 19 ID: 225
