@@ -6,6 +6,7 @@ public:
     Vehicle() {}
     string name;
     void set_company_name(string c_name);
+    // Fucntion declaration and definition is ahead in the program with scope resolution operator
     void display_company_name()
     {
         cout << "The company name is : " << name << endl;
