@@ -4,6 +4,7 @@
     it is global variable. When we print a it prints 
     the local "a", If we need to print something from
      global function we use Scope resolution operator"::".
+     I hated C language back a while ago now i am in assembly God does punishes!
 */
 
 
